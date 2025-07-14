@@ -1,6 +1,0 @@
-opencv-python-headless
-pillow
-tensorflow==2.11.1
-deepface==0.0.87
-streamlit
-spotipy
